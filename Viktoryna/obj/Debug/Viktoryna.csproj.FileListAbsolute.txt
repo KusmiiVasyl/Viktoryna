@@ -1,0 +1,15 @@
+E:\Проекти С#\Viktoryna\Viktoryna\bin\Debug\Viktoryna.exe.config
+E:\Проекти С#\Viktoryna\Viktoryna\bin\Debug\Viktoryna.exe
+E:\Проекти С#\Viktoryna\Viktoryna\bin\Debug\Viktoryna.pdb
+E:\Проекти С#\Viktoryna\Viktoryna\obj\Debug\Viktoryna.csproj.AssemblyReference.cache
+E:\Проекти С#\Viktoryna\Viktoryna\obj\Debug\Viktoryna.csproj.CoreCompileInputs.cache
+E:\Проекти С#\Viktoryna\Viktoryna\obj\Debug\Viktoryna.exe
+E:\Проекти С#\Viktoryna\Viktoryna\obj\Debug\Viktoryna.pdb
+D:\Viktoryna\Viktoryna\bin\Debug\Viktoryna.exe.config
+D:\Viktoryna\Viktoryna\bin\Debug\Viktoryna.exe
+D:\Viktoryna\Viktoryna\bin\Debug\Viktoryna.pdb
+D:\Viktoryna\Viktoryna\obj\Debug\Viktoryna.csproj.AssemblyReference.cache
+D:\Viktoryna\Viktoryna\obj\Debug\Viktoryna.csproj.CoreCompileInputs.cache
+D:\Viktoryna\Viktoryna\obj\Debug\Viktoryna.exe
+D:\Viktoryna\Viktoryna\obj\Debug\Viktoryna.pdb
+E:\Проекти С#\Viktoryna\Viktoryna\obj\Debug\Viktoryna.csproj.SuggestedBindingRedirects.cache
